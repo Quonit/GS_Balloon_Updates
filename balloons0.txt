@@ -1,0 +1,25 @@
+
+origin.x,27
+origin.y,22
+
+validrect.left,30
+validrect.top,22
+validrect.right,260
+validrect.bottom,154
+
+wordwrappoint.x,260
+wordwrappoint.y,24
+
+font.name,Pokemon DPPt.ttf
+font.height,16
+font.shadowcolor.r,185
+font.shadowcolor.g,185
+font.shadowcolor.b,185
+
+arrow0.x,283
+arrow0.y,20
+
+arrow1.x,283
+arrow1.y,144
+
+number.xr,240

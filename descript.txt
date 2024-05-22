@@ -1,0 +1,140 @@
+//--Descript.txt
+
+
+//1. -- Basic information
+
+
+charset,UTF-8
+type,balloon
+name,Pokemon HGSS
+
+craftman,Quonit
+craftmanw,Quonit
+craftmanurl,http://www.ashido.com/
+homeurl,https://raw.githubusercontent.com/quonit/GS_Balloon_Updates/master
+
+
+//2. -- Defining Text Areas
+
+origin.x,27
+origin.y,22
+
+validrect.left,30
+validrect.top,22
+validrect.right,260
+validrect.bottom,154
+
+wordwrappoint.x,260
+wordwrappoint.y,24
+
+font.color.r,0
+font.color.g,0
+font.color.b,0
+
+
+//3. -- Balloon Position
+
+windowposition.x,0
+windowposition.y,0
+windowposition.limit,1
+
+
+//4. -- Other String
+
+
+font.shadowcolor.r,-1
+font.shadowcolor.g,-1
+font.shadowcolor.b,-1
+
+//Default Anchor Font Color
+anchor.font.color.r,255
+anchor.font.color.g,57
+anchor.font.color.b,33
+
+//Default Anchor Font Shadow Colors
+anchor.font.shadowcolor.r,231
+anchor.font.shadowcolor.g,156
+anchor.font.shadowcolor.b,148
+
+//Default Anchor Font Shadow
+anchor.font.shadowstyle,offset
+
+//Not Select
+anchor.notselect.font.color.r,231
+anchor.notselect.font.color.g,156
+anchor.notselect.font.color.b,148
+
+//Visited Anchor Color
+anchor.visited.font.color.r,205
+anchor.visited.font.color.g,98
+anchor.visited.font.color.b,81
+
+anchor.visited.font.shadowcolor.r,140
+anchor.visited.font.shadowcolor.g,173
+anchor.visited.font.shadowcolor.b,214
+
+anchor.visited.font.shadowstyle,offset
+
+//5. -- Choice Markers
+
+
+cursor.blendmethod,none
+cursor.style,underline
+
+cursor.pen.color.r,102
+cursor.pen.color.g,102
+cursor.pen.color.b,102
+
+cursor.brush.color.r,200
+cursor.brush.color.g,200
+cursor.brush.color.b,200
+
+cursor.font.color.r,102
+cursor.font.color.g,102
+cursor.font.color.b,102
+
+
+
+//6. -- Image Markers
+
+arrow0.x,283
+arrow0.y,20
+
+arrow1.x,283
+arrow1.y,144
+
+onlinemarker.x,27
+onlinemarker.y,145
+
+sstpmarker.x,108
+sstpmarker.y,191
+
+sstpmessage.font.height,10
+sstpmessage.font.color.r,150
+sstpmessage.font.color.g,150
+sstpmessage.font.color.b,150
+sstpmessage.x,195
+sstpmessage.y,145
+
+font.name,Pokemon DPPt.ttf
+font.height,16
+font.shadowcolor.r,185
+font.shadowcolor.g,185
+font.shadowcolor.b,185
+number.xr,240
+number.y,192
+
+
+//7. -- Communication Box
+
+
+communicatebox.x,90
+communicatebox.y,13
+
+communicatebox.width,294
+communicatebox.height,39
+
+communicatebox.font.name,Pokemon DPPt.ttf
+communicatebox.font.color.r,90
+communicatebox.font.color.g,90
+communicatebox.font.color.b,82
